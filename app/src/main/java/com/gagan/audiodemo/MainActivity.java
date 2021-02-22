@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
     MediaPlayer mediaPlayer;
 
+    boolean a = true;
+
     // in order to control the audio
     AudioManager audioManager;
     @Override
